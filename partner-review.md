@@ -9,7 +9,7 @@ assignees: ''
 **Reviewer and page/version tested**
 
 **Task**  
-Find the graduate-degree requirement, open the source and explain the deployment experiment.
+Try both presentation options. Find Priya’s contribution to Themis, identify which result still needs evidence, and locate education and LinkedIn. Which option made the task easier? Name the exact confusing wording or section.
 
 **Expected / observed**  
 Name the exact heading, wording or interaction. What happened? What would have helped?
